@@ -1,0 +1,6 @@
+C:\Users\cuiy0\OneDrive\Eat1Apple!\Projects\Demo\NYUHW\bin\Debug\NYUHW.exe.config
+C:\Users\cuiy0\OneDrive\Eat1Apple!\Projects\Demo\NYUHW\bin\Debug\NYUHW.exe
+C:\Users\cuiy0\OneDrive\Eat1Apple!\Projects\Demo\NYUHW\bin\Debug\NYUHW.pdb
+C:\Users\cuiy0\OneDrive\Eat1Apple!\Projects\Demo\NYUHW\obj\Debug\Console_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\cuiy0\OneDrive\Eat1Apple!\Projects\Demo\NYUHW\obj\Debug\NYUHW.exe
+C:\Users\cuiy0\OneDrive\Eat1Apple!\Projects\Demo\NYUHW\obj\Debug\NYUHW.pdb
